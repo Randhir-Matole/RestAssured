@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-10T12:36:46 IST" name="Suite" finished-at="2022-10-10T12:36:54 IST" duration-ms="8522">
+    <groups>
+    </groups>
+    <test started-at="2022-10-10T12:36:46 IST" name="Test" finished-at="2022-10-10T12:36:54 IST" duration-ms="8522">
+      <class name="postTestCases.postTc3">
+        <test-method signature="post_Executer_Tc3()[pri:0, instance:postTestCases.postTc3@4f6f416f]" started-at="2022-10-10T12:36:51 IST" name="post_Executer_Tc3" finished-at="2022-10-10T12:36:53 IST" duration-ms="1597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_Executer_Tc3 -->
+      </class> <!-- postTestCases.postTc3 -->
+      <class name="postTestCases.postTc2">
+        <test-method signature="post_Executer_Tc2()[pri:0, instance:postTestCases.postTc2@3b8f0a79]" started-at="2022-10-10T12:36:53 IST" name="post_Executer_Tc2" finished-at="2022-10-10T12:36:54 IST" duration-ms="1624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_Executer_Tc2 -->
+      </class> <!-- postTestCases.postTc2 -->
+      <class name="postTestCases.postTc1">
+        <test-method signature="post_Executer_Tc1()[pri:0, instance:postTestCases.postTc1@302f7971]" started-at="2022-10-10T12:36:46 IST" name="post_Executer_Tc1" finished-at="2022-10-10T12:36:51 IST" duration-ms="5183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post_Executer_Tc1 -->
+      </class> <!-- postTestCases.postTc1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
